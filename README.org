@@ -1,0 +1,10 @@
+* cl-fuzz
+
+Fuzz Testing in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ndantam/cl-fuzz.git   |
+| commit  | acb14a2  |
+| systems | cl-fuzz |
+|---------+-------------------------------------------|
+
